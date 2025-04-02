@@ -1,5 +1,6 @@
 ## Hi there 👋
-
+- 😄 Pronouns: She/Her
+- ⚡ Fun fact: 👩‍❤️‍💋‍👩🏳️‍⚧️
 <!--
 **cellhead/cellhead** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
