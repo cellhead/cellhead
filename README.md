@@ -1,6 +1,11 @@
-## Hi there 👋
-- 😄 Pronouns: She/Her
-- ⚡ Fun fact: 👩‍❤️‍💋‍👩🏳️‍⚧️
+## Heya 👋 
+My name is Erin, I'm a 3d animator trying to learn a bit of code on the side!
+- ❤️ Pronouns: She/Her 🏳️‍⚧️
+- 😍 Likes: Girls, animation, art, cooking
+- 🎮 Games: Souls, Guilty Gear, GBVS, Halo, Yu-Gi-Oh, Civ, Crusader Kings
+- 🎀 Anime: Dress up Darling, Citrus, Dragon Maid, Girls Band Cry, Cardcaptor Sakura, FMA, HxH99, Pokémon
+- 🔰 Learning: HTML, CSS, Python
+- Former user on cohost.org
 <!--
 **cellhead/cellhead** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
