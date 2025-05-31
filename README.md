@@ -3,7 +3,7 @@ My name is Erin, I'm a 3d animator trying to learn a bit of code on the side!
 - ❤️ Pronouns: She/Her 🏳️‍⚧️
 - 😍 Likes: Girls, animation, art, cooking
 - 🎮 Games: Souls, Guilty Gear, GBVS, Halo, Yu-Gi-Oh, Civ, Crusader Kings
-- 🎀 Anime: Dress up Darling, Citrus, Dragon Maid, Girls Band Cry, Cardcaptor Sakura, FMA, HxH99, Pokémon
+- 🎀 Anime: Dress up Darling, Citrus, Dragon Maid, Onimai, Girls Band Cry, Cardcaptor Sakura, FMA, HxH99, Pokémon
 - 🔰 Learning: HTML, CSS, Python
 - Former user on cohost.org
 <!--
